@@ -1,0 +1,7 @@
+# Python-specific
+__pycache__/
+
+# Project-specific
+*.json
+*.env
+*.txt
